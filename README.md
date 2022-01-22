@@ -1,0 +1,4 @@
+- 👋 Olá, Eu sou o @AllanRocha28
+- 👀 Tenho interesse por HTML, CSS, JAVASCRIPT e REACTJS
+- 🌱 Estou aprendendo mais sobre REACTJS
+- 📫 Podem me encontrar pelo e-mil: amaralallan92@gmail.com
