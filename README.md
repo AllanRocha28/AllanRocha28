@@ -1,4 +1,4 @@
 - 👋 Olá, Eu sou o @AllanRocha
-- 👀 Tenho interesse por HTML, CSS,JAVASCRIPT, REACTJS e Data Science
+- 👀 Tenho interesse em HTML, CSS,JAVASCRIPT, REACTJS e Data Science
 - 🌱 Estou desenvolvendo projetos nas áreas de Data Science e de Desenvovilmento Web
 - 📫 Podem me encontarar pelo e-mail: amaralallan92@gmail.com
